@@ -2,6 +2,8 @@
 
 Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – speziell für IT-Teams, Einkauf, Projektmanagement und Support.
 
+## 💡 Hinweis: Externe Links öffnen sich standardmäßig im selben Tab. Rechtsklick → „In neuem Tab öffnen“ empfohlen.
+
 ## Inhalt
 
 - [AI-Tools](#ai-tools)
