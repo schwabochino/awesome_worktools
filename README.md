@@ -39,6 +39,8 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 ## IT-Administration & Support
 
 - **Anydesk** – Schnelles Remote-Desktop-Tool. [Website](https://anydesk.com)
+- **Microsoft PowerToys** – Sammlung nützlicher Windows-Tools wie FancyZones (Fenstermanager), PowerRename (Massen-Umbenennung), Clipboard Manager und mehr.
+👉 PowerToys bei GitHub [Website](https://learn.microsoft.com/de-de/windows/powertoys/install)
 - **NinjaOne** – RMM-Lösung für IT-Dienstleister und interne IT. [Website](https://www.ninjaone.com)
 - **Teamviewer** – Remote-Zugriff und Support. [Website](https://www.teamviewer.com)
 
