@@ -24,6 +24,7 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 - **ElevenLabs** – AI-Text-zu-Sprache-Tool für Stimmen und Ansagen. [Website](https://elevenlabs.io/de)
 - **Huggingface** – Plattform für Open-Source-Modelle und KI-Tools. [Website](https://huggingface.co)
 - **Langdock** – DSGVO-konforme Plattform mit LLMs von Gemini, OpenAI, Meta u. a. [Website](https://www.langdock.com)
+- **milia** - Kanzlei AI Tool mit Datevschnittstelle [Website](https://www.langdock.com)
 
 ## Automatisierung & Workflows
 
