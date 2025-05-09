@@ -12,6 +12,7 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 - [IT-Administration & Support](#it-administration--support)
 - [Kommunikation & Zusammenarbeit](#kommunikation--zusammenarbeit)
 - [Passwortmanager](#passwortmanager)
+- [PDF-Toos](#pdf-tools)
 - [Projektmanagement & Planung](#projektmanagement--planung)
 - [Rechnungstools / E-Rechnung](#rechnungstools--e-rechnung)
 - [Self-Hosting & Open Source](#self-hosting--open-source)
@@ -55,6 +56,11 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 
 - **1Password** – Passwortmanager für Teams und Unternehmen. [Website](https://1password.com)
 - **KeePass** – Open-Source-Passwortmanager. [Website](https://keepass.info)
+
+## PDF-Tools
+
+- **Stirling PDF** – Leistungsstarkes, lokal hostbares Open-Source-Tool zur Bearbeitung von PDFs. Unterstützt über 50 Funktionen wie Zusammenführen, Konvertieren, Komprimieren, Signieren, Schwärzen, OCR, Passwortschutz und mehr. Ideal für datenschutzbewusste Unternehmen.  
+  👉 [stirlingpdf.io](https://stirlingpdf.io) | [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 
 ## Projektmanagement & Planung
 
