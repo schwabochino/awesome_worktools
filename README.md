@@ -70,7 +70,7 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 
 - [easybill](https://www.easybill.de) – Online-Rechnungen und E-Rechnung.
 - [sevDesk](https://sevdesk.com) – Buchhaltungssoftware mit E-Rechnungsmodul.
-- [smarthandwerk](https://www.smarthandwerk.de) – Handwerkersoftware mit GAEB- und Rechnungsfunktionen.
+- [smarthandwerk](https://www.smarthandwerk.de) – Handwerkersoftware, Fakturasoftware, ERP-Tool, mit DATEV-Schnittstelle
 
 ## Self-Hosting & Open Source
 
