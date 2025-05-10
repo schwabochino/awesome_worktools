@@ -1,13 +1,10 @@
-# Awesome Work Tools for IT & Business
+# Awesome Work Tools for IT & Business [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – speziell für IT-Teams, Einkauf, Projektmanagement und Support.
 
-## 💡 Hinweis
-Externe Links öffnen sich standardmäßig im selben Tab. Rechtsklick → „In neuem Tab öffnen“ empfohlen.
+> Hinweis: Externe Links öffnen sich auf GitHub standardmäßig im selben Tab. Rechtsklick → „In neuem Tab öffnen“ empfohlen.
 
----
-
-## Inhalt
+## Inhaltsverzeichnis
 
 - [AI-Tools](#ai-tools)
 - [Automatisierung & Workflows](#automatisierung--workflows)
@@ -22,73 +19,110 @@ Externe Links öffnen sich standardmäßig im selben Tab. Rechtsklick → „In 
 - [Speicher & Dateiablage](#speicher--dateiablage)
 - [Wissensmanagement](#wissensmanagement)
 - [Zeiterfassung](#zeiterfassung)
+- [Lizenz](#lizenz)
+- [Mitmachen](#mitmachen)
 
 ---
 
 ## AI-Tools
 
-- **ElevenLabs** – AI-Text-zu-Sprache-Tool für Stimmen und Ansagen. 👉 [Website](https://elevenlabs.io/de)
-- **Huggingface** – Plattform für Open-Source-Modelle und KI-Tools. 👉 [Website](https://huggingface.co)
-- **Langdock** – DSGVO-konforme Plattform mit LLMs von Gemini, OpenAI, Meta u. a. 👉 [Website](https://www.langdock.com)
-- **milia** – KI-Tool für Kanzleien mit DATEV-Schnittstelle. 👉 [Website](https://www.milia.io)
+Tools zur Nutzung, Integration und Entwicklung von Künstlicher Intelligenz im Arbeitsalltag.
+
+- **ElevenLabs** – Text-zu-Sprache-Tool zur Sprachausgabe mit realistischen Stimmen. [Website](https://elevenlabs.io/de)
+- **Huggingface** – Plattform für Open-Source-KI-Modelle und -APIs. [Website](https://huggingface.co)
+- **Langdock** – DSGVO-konforme Plattform zur Nutzung von LLMs wie OpenAI, Gemini & Co. [Website](https://www.langdock.com)
+- **milia** – KI-Tool für Kanzleien mit DATEV-Anbindung. [Website](https://www.milia.io)
 
 ## Automatisierung & Workflows
 
-- **n8n** – Open-Source-Workflow-Automatisierung mit API-Anbindung. 👉 [Website](https://n8n.io)
+Tools zur Automatisierung von Prozessen und Integrationen zwischen Anwendungen.
+
+- **n8n** – Open-Source-Workflow-Automatisierung mit API-Anbindung. [Website](https://n8n.io)
 
 ## Beschaffung & Einkauf
 
-*(Derzeit leer – gerne Vorschläge einreichen!)*
+Tools zur digitalen Unterstützung von Beschaffungsprozessen.
+
+*(Derzeit leer – Vorschläge willkommen.)*
 
 ## IT-Administration & Support
 
-- **Anydesk** – Schnelles Remote-Desktop-Tool. 👉 [Website](https://anydesk.com)
-- **Microsoft PowerToys** – Sammlung nützlicher Windows-Tools wie FancyZones, PowerRename, Clipboard Manager etc. 👉 [Website](https://learn.microsoft.com/de-de/windows/powertoys/install)
-- **NinjaOne** – RMM-Lösung für IT-Dienstleister und interne IT. 👉 [Website](https://www.ninjaone.com)
-- **Teamviewer** – Remote-Zugriff und Support. 👉 [Website](https://www.teamviewer.com)
+Hilfsmittel für die IT-Verwaltung, Fernwartung und den technischen Support.
+
+- **Anydesk** – Schnelles Remote-Desktop-Tool. [Website](https://anydesk.com)
+- **Microsoft PowerToys** – Toolsammlung für Windows-Produktivität. [Website](https://learn.microsoft.com/de-de/windows/powertoys/install)
+- **NinjaOne** – RMM-Plattform für IT-Dienstleister und interne IT. [Website](https://www.ninjaone.com)
+- **Teamviewer** – Fernzugriff und Remote-Support. [Website](https://www.teamviewer.com)
 
 ## Kommunikation & Zusammenarbeit
 
-- **Jitsi Meet** – Open-Source-Videokonferenzen ohne Anmeldung. 👉 [Website](https://meet.jit.si)
-- **Microsoft Teams** – Kommunikation, Meetings und Dateiablage. 👉 [Website](https://www.microsoft.com/de-de/microsoft-teams)
-- **Slack** – Moderne Teamkommunikation mit Integrationen. 👉 [Website](https://slack.com)
-- **Zoom** – Videokonferenzen und Webinare. 👉 [Website](https://zoom.us)
+Tools zur Zusammenarbeit im Team und für digitale Kommunikation.
+
+- **Jitsi Meet** – Open-Source-Videokonferenzen ohne Anmeldung. [Website](https://meet.jit.si)
+- **Microsoft Teams** – Plattform für Team-Kommunikation und Zusammenarbeit. [Website](https://www.microsoft.com/de-de/microsoft-teams)
+- **Slack** – Chatbasierte Teamkommunikation mit Integrationen. [Website](https://slack.com)
+- **Zoom** – Videokonferenzen und Webinare. [Website](https://zoom.us)
 
 ## Passwortmanager
 
-- **1Password** – Passwortmanager für Teams und Unternehmen. 👉 [Website](https://1password.com)
-- **KeePass** – Open-Source-Passwortmanager. 👉 [Website](https://keepass.info)
+Verwaltung und sichere Speicherung von Zugangsdaten.
+
+- **1Password** – Passwortmanager für Teams und Unternehmen. [Website](https://1password.com)
+- **KeePass** – Open-Source-Passwortmanager. [Website](https://keepass.info)
 
 ## PDF-Tools
 
-- **Stirling PDF** – Lokal hostbares Open-Source-Tool zur Bearbeitung von PDFs. Unterstützt über 50 Funktionen wie Zusammenführen, OCR, Komprimieren, Schwärzen, Signieren u. v. m.  
-  👉 [Website](https://stirlingpdf.io) | [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
+Werkzeuge zur Bearbeitung und Verwaltung von PDF-Dokumenten.
+
+- **Stirling PDF** – Selbstgehostetes PDF-Tool mit über 50 Bearbeitungsfunktionen. [Website](https://stirlingpdf.io) · [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
 
 ## Projektmanagement & Planung
 
-- **Microsoft Loop** – Kostenloses Kanban-/Projekttool von Microsoft. 👉 [Website](https://loop.microsoft.com)
+Tools zur Aufgabenverwaltung, Planung und Strukturierung von Projekten.
+
+- **Microsoft Loop** – Kanban- und Notiztool von Microsoft. [Website](https://loop.microsoft.com)
 
 ## Rechnungstools / E-Rechnung
 
-- **easybill** – Online-Rechnungen & E-Rechnung für kleine Unternehmen. 👉 [Website](https://www.easybill.de)
-- **sevDesk** – Buchhaltungssoftware & Rechnungsstellung. 👉 [Website](https://sevdesk.com)
-- **smarthandwerk** – Handwerkerlösung mit Rechnungs- und GAEB-Modul. 👉 [Website](https://www.smarthandwerk.de)
+Software zur Erstellung von Rechnungen, Angeboten und E-Rechnungen.
+
+- **easybill** – Online-Rechnungen und E-Rechnung. [Website](https://www.easybill.de)
+- **sevDesk** – Buchhaltungssoftware mit E-Rechnungsmodul. [Website](https://sevdesk.com)
+- **smarthandwerk** – Handwerkersoftware mit GAEB- und Rechnungsfunktionen. [Website](https://www.smarthandwerk.de)
 
 ## Self-Hosting & Open Source
 
-- **Docker** – Standardplattform für Containerisierung. 👉 [Website](https://www.docker.com)
-- **Podman** – Rootless-Container-Alternative zu Docker. 👉 [Website](https://podman.io)
-- **Portainer** – Web-GUI zur Verwaltung von Docker-Containern. 👉 [Website](https://www.portainer.io)
+Tools, die lokal betrieben werden können und quelloffen sind.
+
+- **Docker** – Plattform zur Containerisierung von Anwendungen. [Website](https://www.docker.com)
+- **Podman** – Container-Engine als Docker-Alternative. [Website](https://podman.io)
+- **Portainer** – GUI zur Verwaltung von Docker-Containern. [Website](https://www.portainer.io)
 
 ## Speicher & Dateiablage
 
-- **Nextcloud** – Selbstgehostete Plattform für Dateiablage und Zusammenarbeit. 👉 [Website](https://nextcloud.com)
+Tools zur Dateiablage, Synchronisation und Teamfreigabe.
+
+- **Nextcloud** – Selbstgehostete Plattform für Filesharing und Zusammenarbeit. [Website](https://nextcloud.com)
 
 ## Wissensmanagement
 
-- **BookStack** – Open-Source-Wiki-Software für Teams. 👉 [Website](https://www.bookstackapp.com)
-- **Know&Share** – Hosted Service zur strukturierten Wissensorganisation. 👉 [Website](https://www.knowandshare.com)
+Lösungen zur Verwaltung von Wissen, Dokumentation und interner Kommunikation.
+
+- **BookStack** – Open-Source-Wiki für Teams. [Website](https://www.bookstackapp.com)
+- **Know&Share** – Hosted Service zur strukturierten Wissensorganisation. [Website](https://www.knowandshare.com)
 
 ## Zeiterfassung
 
-- **clockodo** – Zeiterfassung für Teams, Projekte und Rechnungen. 👉 [Website](https://www.clockodo.de)
+Tools zur Arbeitszeiterfassung und Projektzeitverwaltung.
+
+- **clockodo** – Zeiterfassung für Teams und Projekte. [Website](https://www.clockodo.de)
+
+---
+
+## Mitmachen
+
+Beiträge sind willkommen! Bitte lies vorher das [CONTRIBUTING.md](contributing.md), bevor du neue Tools vorschlägst oder bestehende bearbeitest.
+
+## Lizenz
+
+MIT © [Dein Name oder Firmenname]
