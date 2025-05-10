@@ -26,103 +26,77 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 
 ## AI-Tools
 
-Tools zur Nutzung, Integration und Entwicklung von Künstlicher Intelligenz im Arbeitsalltag.
-
-- **ElevenLabs** – Text-zu-Sprache-Tool zur Sprachausgabe mit realistischen Stimmen. [Website](https://elevenlabs.io/de)
-- **Huggingface** – Plattform für Open-Source-KI-Modelle und -APIs. [Website](https://huggingface.co)
-- **Langdock** – DSGVO-konforme Plattform zur Nutzung von LLMs wie OpenAI, Gemini & Co. [Website](https://www.langdock.com)
-- **milia** – KI-Tool für Kanzleien mit DATEV-Anbindung. [Website](https://www.milia.io)
+- [ElevenLabs](https://elevenlabs.io/de) – Text-zu-Sprache-Tool für realistische Stimmen.
+- [Huggingface](https://huggingface.co) – Plattform für Open-Source-KI-Modelle und -APIs.
+- [Langdock](https://www.langdock.com) – DSGVO-konforme Plattform für LLMs (OpenAI, Gemini etc.).
+- [milia](https://www.milia.io) – KI-Tool für Kanzleien mit DATEV-Anbindung.
 
 ## Automatisierung & Workflows
 
-Tools zur Automatisierung von Prozessen und Integrationen zwischen Anwendungen.
-
-- **n8n** – Open-Source-Workflow-Automatisierung mit API-Anbindung. [Website](https://n8n.io)
+- [n8n](https://n8n.io) – Open-Source-Workflow-Automatisierung mit API-Anbindung.
 
 ## Beschaffung & Einkauf
-
-Tools zur digitalen Unterstützung von Beschaffungsprozessen.
 
 *(Derzeit leer – Vorschläge willkommen.)*
 
 ## IT-Administration & Support
 
-Hilfsmittel für die IT-Verwaltung, Fernwartung und den technischen Support.
-
-- **Anydesk** – Schnelles Remote-Desktop-Tool. [Website](https://anydesk.com)
-- **Microsoft PowerToys** – Toolsammlung für Windows-Produktivität. [Website](https://learn.microsoft.com/de-de/windows/powertoys/install)
-- **NinjaOne** – RMM-Plattform für IT-Dienstleister und interne IT. [Website](https://www.ninjaone.com)
-- **Teamviewer** – Fernzugriff und Remote-Support. [Website](https://www.teamviewer.com)
+- [Anydesk](https://anydesk.com) – Schnelles Remote-Desktop-Tool.
+- [Microsoft PowerToys](https://learn.microsoft.com/de-de/windows/powertoys/install) – Toolsammlung für Power-User unter Windows.
+- [NinjaOne](https://www.ninjaone.com) – RMM-Plattform für IT-Dienstleister.
+- [Teamviewer](https://www.teamviewer.com) – Fernzugriff und Remote-Support.
 
 ## Kommunikation & Zusammenarbeit
 
-Tools zur Zusammenarbeit im Team und für digitale Kommunikation.
-
-- **Jitsi Meet** – Open-Source-Videokonferenzen ohne Anmeldung. [Website](https://meet.jit.si)
-- **Microsoft Teams** – Plattform für Team-Kommunikation und Zusammenarbeit. [Website](https://www.microsoft.com/de-de/microsoft-teams)
-- **Slack** – Chatbasierte Teamkommunikation mit Integrationen. [Website](https://slack.com)
-- **Zoom** – Videokonferenzen und Webinare. [Website](https://zoom.us)
+- [Jitsi Meet](https://meet.jit.si) – Open-Source-Videokonferenzen ohne Anmeldung.
+- [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams) – Plattform für Team-Kommunikation.
+- [Slack](https://slack.com) – Teamkommunikation mit Integrationen.
+- [Zoom](https://zoom.us) – Videokonferenzen und Webinare.
 
 ## Passwortmanager
 
-Verwaltung und sichere Speicherung von Zugangsdaten.
-
-- **1Password** – Passwortmanager für Teams und Unternehmen. [Website](https://1password.com)
-- **KeePass** – Open-Source-Passwortmanager. [Website](https://keepass.info)
+- [1Password](https://1password.com) – Passwortmanager für Teams.
+- [KeePass](https://keepass.info) – Open-Source-Passwortmanager.
 
 ## PDF-Tools
 
-Werkzeuge zur Bearbeitung und Verwaltung von PDF-Dokumenten.
-
-- **Stirling PDF** – Selbstgehostetes PDF-Tool mit über 50 Bearbeitungsfunktionen. [Website](https://stirlingpdf.io) · [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
+- [Stirling PDF](https://stirlingpdf.io) – Selbstgehostetes PDF-Tool mit über 50 Bearbeitungsfunktionen.
 
 ## Projektmanagement & Planung
 
-Tools zur Aufgabenverwaltung, Planung und Strukturierung von Projekten.
-
-- **Microsoft Loop** – Kanban- und Notiztool von Microsoft. [Website](https://loop.microsoft.com)
+- [Microsoft Loop](https://loop.microsoft.com) – Kanban- und Notiztool von Microsoft.
 
 ## Rechnungstools / E-Rechnung
 
-Software zur Erstellung von Rechnungen, Angeboten und E-Rechnungen.
-
-- **easybill** – Online-Rechnungen und E-Rechnung. [Website](https://www.easybill.de)
-- **sevDesk** – Buchhaltungssoftware mit E-Rechnungsmodul. [Website](https://sevdesk.com)
-- **smarthandwerk** – Handwerkersoftware mit GAEB- und Rechnungsfunktionen. [Website](https://www.smarthandwerk.de)
+- [easybill](https://www.easybill.de) – Online-Rechnungen und E-Rechnung.
+- [sevDesk](https://sevdesk.com) – Buchhaltungssoftware mit E-Rechnungsmodul.
+- [smarthandwerk](https://www.smarthandwerk.de) – Handwerkersoftware mit GAEB- und Rechnungsfunktionen.
 
 ## Self-Hosting & Open Source
 
-Tools, die lokal betrieben werden können und quelloffen sind.
-
-- **Docker** – Plattform zur Containerisierung von Anwendungen. [Website](https://www.docker.com)
-- **Podman** – Container-Engine als Docker-Alternative. [Website](https://podman.io)
-- **Portainer** – GUI zur Verwaltung von Docker-Containern. [Website](https://www.portainer.io)
+- [Docker](https://www.docker.com) – Plattform zur Containerisierung.
+- [Podman](https://podman.io) – Rootless-Alternative zu Docker.
+- [Portainer](https://www.portainer.io) – GUI zur Verwaltung von Containern.
 
 ## Speicher & Dateiablage
 
-Tools zur Dateiablage, Synchronisation und Teamfreigabe.
-
-- **Nextcloud** – Selbstgehostete Plattform für Filesharing und Zusammenarbeit. [Website](https://nextcloud.com)
+- [Nextcloud](https://nextcloud.com) – Selbstgehostete Plattform für Filesharing.
 
 ## Wissensmanagement
 
-Lösungen zur Verwaltung von Wissen, Dokumentation und interner Kommunikation.
-
-- **BookStack** – Open-Source-Wiki für Teams. [Website](https://www.bookstackapp.com)
-- **Know&Share** – Hosted Service zur strukturierten Wissensorganisation. [Website](https://www.knowandshare.com)
+- [BookStack](https://www.bookstackapp.com) – Open-Source-Wiki für Teams.
+- [Know&Share](https://www.knowandshare.com) – Hosted Service für Wissensorganisation.
 
 ## Zeiterfassung
 
-Tools zur Arbeitszeiterfassung und Projektzeitverwaltung.
-
-- **clockodo** – Zeiterfassung für Teams und Projekte. [Website](https://www.clockodo.de)
+- [clockodo](https://www.clockodo.de) – Zeiterfassung für Teams und Projekte.
 
 ---
 
-## Mitmachen
-
-Beiträge sind willkommen! Bitte lies vorher das [CONTRIBUTING.md](contributing.md), bevor du neue Tools vorschlägst oder bestehende bearbeitest.
-
 ## Lizenz
 
-MIT © 2025 Philipp Schwarberg
+MIT © 2025
+
+## Mitmachen
+
+Beiträge sind willkommen! Bitte lies die [contributing.md](contributing.md), bevor du neue Tools vorschlägst.
