@@ -19,7 +19,6 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 - [Speicher & Dateiablage](#speicher--dateiablage)
 - [Wissensmanagement](#wissensmanagement)
 - [Zeiterfassung](#zeiterfassung)
-- [Lizenz](#lizenz)
 - [Mitmachen](#mitmachen)
 
 ---
@@ -92,10 +91,6 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 - [clockodo](https://www.clockodo.de) – Zeiterfassung für Teams und Projekte.
 
 ---
-
-## Lizenz
-
-MIT © 2025
 
 ## Mitmachen
 
