@@ -125,4 +125,4 @@ Beiträge sind willkommen! Bitte lies vorher das [CONTRIBUTING.md](contributing.
 
 ## Lizenz
 
-MIT © [Dein Name oder Firmenname]
+MIT © 2025 Philipp Schwarberg
