@@ -11,11 +11,24 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 - [Beschaffung & Einkauf](#beschaffung--einkauf)
 - [IT-Administration & Support](#it-administration--support)
 - [Kommunikation & Zusammenarbeit](#kommunikation--zusammenarbeit)
+- [OSINT](#osint)
+  - [Allgemein](#allgemein)
+  - [Personensuche](#personensuche)
+  - [Social Media Analyse](#social-media-analyse)
+  - [Metadaten & Dateien](#metadaten--dateien)
+  - [Karten & Geolokalisierung](#karten--geolokalisierung)
 - [Passwortmanager](#passwortmanager)
 - [PDF-Tools](#pdf-tools)
 - [Podcasts](#podcasts)
 - [Projektmanagement & Planung](#projektmanagement--planung)
 - [Rechnungstools / E-Rechnung](#rechnungstools--e-rechnung)
+- [Security Tools](#security-tools)
+  - [Allgemein](#allgemein-1)
+  - [Scanning & Enumeration](#scanning--enumeration)
+  - [Exploitation](#exploitation)
+  - [Web Application Testing](#web-application-testing)
+  - [Passwort & Hash Cracking](#passwort--hash-cracking)
+  - [Wireless & Bluetooth](#wireless--bluetooth)
 - [Self-Hosting & Open Source](#self-hosting--open-source)
 - [Speicher & Dateiablage](#speicher--dateiablage)
 - [Videos / Youtube Channels](#videos--youtube-channels)
@@ -109,6 +122,44 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 - [easybill](https://www.easybill.de) – Online-Rechnungen und E-Rechnung.
 - [sevDesk](https://sevdesk.com) – Buchhaltungssoftware mit E-Rechnungsmodul.
 - [smarthandwerk](https://www.smarthandwerk.de) – Handwerkersoftware, Fakturasoftware, ERP-Tool, mit DATEV-Schnittstelle
+
+## Security Tools
+
+### Allgemein
+
+- [Kali Linux](https://www.kali.org/) – Die bekannteste Linux-Distribution für Penetration Testing.
+- [Parrot OS](https://www.parrotsec.org/) – Alternative Linux-Distribution mit Fokus auf Sicherheit und Forensik.
+- [PentestBox](https://pentestbox.com/) – Windows-basierte Penetration-Testing-Umgebung.
+
+### Scanning & Enumeration
+
+- [Nmap](https://nmap.org/) – Netzwerkscanner zur Erkennung offener Ports und Dienste.
+- [Masscan](https://github.com/robertdavidgraham/masscan) – Extrem schneller Portscanner.
+- [Enum4linux](https://github.com/CiscoCXSecurity/enum4linux) – Information Gathering für Windows-Systeme (SMB, RPC).
+
+### Exploitation
+
+- [Metasploit Framework](https://www.metasploit.com/) – Umfangreiches Exploitation-Framework für Schwachstellenausnutzung.
+- [Exploit Database](https://www.exploit-db.com/) – Sammlung veröffentlichter Exploits und Proof-of-Concepts.
+- [Commix](https://github.com/commixproject/commix) – Automatisiertes Tool zur Ausnutzung von Command Injection Schwachstellen.
+
+### Web Application Testing
+
+- [Burp Suite Community Edition](https://portswigger.net/burp) – Web Application Security Testing Toolkit.
+- [OWASP ZAP](https://www.zaproxy.org/) – Open-Source-Webscanner mit GUI und automatisiertem Scanning.
+- [Nikto](https://github.com/sullo/nikto) – Webserver Scanner für veraltete oder unsichere Dienste.
+
+### Passwort & Hash Cracking
+
+- [Hashcat](https://hashcat.net/hashcat/) – Leistungsstarkes Passwort-Cracking-Tool für GPUs.
+- [John the Ripper](https://www.openwall.com/john/) – Klassiker für Passwortprüfung und -cracking.
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra) – Schnelles Tool für Brute-Force-Angriffe auf Netzwerkprotokolle.
+
+### Wireless & Bluetooth
+
+- [Aircrack-ng](https://www.aircrack-ng.org/) – Tool-Suite zum Knacken von WLAN-Verschlüsselung.
+- [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) – Rogue AP Framework für Man-in-the-Middle-Angriffe.
+- [Bettercap](https://github.com/bettercap/bettercap) – Netzwerkangriffs- und -überwachungsframework, inkl. BLE.
 
 ## Self-Hosting & Open Source
 
