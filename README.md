@@ -13,10 +13,12 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 - [Kommunikation & Zusammenarbeit](#kommunikation--zusammenarbeit)
 - [Passwortmanager](#passwortmanager)
 - [PDF-Tools](#pdf-tools)
+- [Podcasts](#podcasts)
 - [Projektmanagement & Planung](#projektmanagement--planung)
 - [Rechnungstools / E-Rechnung](#rechnungstools--e-rechnung)
 - [Self-Hosting & Open Source](#self-hosting--open-source)
 - [Speicher & Dateiablage](#speicher--dateiablage)
+- [Videos / Youtube Channels](#videos--youtube-channels)
 - [Wissensmanagement](#wissensmanagement)
 - [Zeiterfassung](#zeiterfassung)
 - [Mitmachen](#mitmachen)
@@ -61,6 +63,10 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 
 - [Stirling PDF](https://stirlingpdf.io) – Selbstgehostetes PDF-Tool mit über 50 Bearbeitungsfunktionen.
 
+## Podcasts
+- [CCC Chaosradio](https://chaosradio.de/about)
+- [Heise Podcast Liste](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html) Liste der Heise Medien Gruppe
+
 ## Projektmanagement & Planung
 
 - [Microsoft Loop](https://loop.microsoft.com) – Kanban- und Notiztool von Microsoft.
@@ -80,6 +86,12 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 ## Speicher & Dateiablage
 
 - [Nextcloud](https://nextcloud.com) – Selbstgehostete Plattform für Filesharing.
+
+## Videos / Youtube Channels
+
+- [@AndreasHausmann](https://www.youtube.com/c/AndreasHausmann) - DATEV Wissen kompakt in Youtube gegossen
+- [@itelioCloudUncovered](https://www.youtube.com/@itelioCloudUncovered) - Handson, Tutorials rund um MS-Cloud
+- [@ct3003](https://www.youtube.com/@ct3003) - Informativer Heise.de Youtubechannel zu Techniktrends
 
 ## Wissensmanagement
 
