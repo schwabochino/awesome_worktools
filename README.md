@@ -1,8 +1,9 @@
-# Awesome Work Tools for IT & Business [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Work Tools for IT & Business
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – speziell für IT-Teams, Einkauf, Projektmanagement und Support.
 
-> Hinweis: Externe Links öffnen sich auf GitHub standardmäßig im selben Tab. Rechtsklick → „In neuem Tab öffnen“ empfohlen.
+> Hinweis: Externe Links öffnen sich auf GitHub standardmäßig im selben Tab. Rechtsklick → "In neuem Tab öffnen" empfohlen.
 
 ## Inhaltsverzeichnis
 
@@ -31,7 +32,7 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
   - [Wireless & Bluetooth](#wireless--bluetooth)
 - [Self-Hosting & Open Source](#self-hosting--open-source)
 - [Speicher & Dateiablage](#speicher--dateiablage)
-- [Videos / Youtube Channels](#videos--youtube-channels)
+- [Videos / YouTube-Kanäle](#videos--youtube-kanäle)
 - [Wissensmanagement](#wissensmanagement)
 - [Zeiterfassung](#zeiterfassung)
 - [Mitmachen](#mitmachen)
@@ -40,17 +41,17 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 
 ## AI-Tools
 
-- [ElevenLabs](https://elevenlabs.io/de) – Text-zu-Sprache-Tool für realistische Stimmen.
-- [Huggingface](https://huggingface.co) – Plattform für Open-Source-KI-Modelle und -APIs.
-- [Llama](https://www.llama.com) - Meta LLMs
-- [LLM Studio](https://lmstudio.ai) - App zum lokal ausführen von LLMs
-- [Langdock](https://www.langdock.com) – DSGVO-konforme Plattform für LLMs (OpenAI, Gemini etc.).
-- [milia](https://www.milia.io) – KI-Tool für Kanzleien mit DATEV-Anbindung.
-- [Whisper](https://openai.com/index/whisper/) -  Bestes Sprache zu Text Tool
+- [ElevenLabs](https://elevenlabs.io/de) – text-zu-sprache-tool für realistische stimmen  
+- [Huggingface](https://huggingface.co) – plattform für open-source-ki-modelle und -apis  
+- [Llama](https://www.llama.com) – llms von Meta  
+- [LLM Studio](https://lmstudio.ai) – app zum lokalen ausführen von llms  
+- [Langdock](https://www.langdock.com) – dsgvo-konforme plattform für llms (OpenAI, Gemini etc.)  
+- [milia](https://www.milia.io) – ki-tool für kanzleien mit DATEV-anbindung  
+- [Whisper](https://openai.com/index/whisper/) – sprache-zu-text-tool mit hoher genauigkeit  
 
 ## Automatisierung & Workflows
 
-- [n8n](https://n8n.io) – Open-Source-Workflow-Automatisierung mit API-Anbindung.
+- [n8n](https://n8n.io) – open-source-workflow-automatisierung mit api-anbindung  
 
 ## Beschaffung & Einkauf
 
@@ -58,136 +59,137 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 
 ## IT-Administration & Support
 
-- [Anydesk](https://anydesk.com) – Schnelles Remote-Desktop-Tool.
-- [Microsoft PowerToys](https://learn.microsoft.com/de-de/windows/powertoys/install) – Toolsammlung für Power-User unter Windows.
-- [NinjaOne](https://www.ninjaone.com) – RMM-Plattform für IT-Dienstleister.
-- [Teamviewer](https://www.teamviewer.com) – Fernzugriff und Remote-Support.
+- [Anydesk](https://anydesk.com) – schnelles remote-desktop-tool  
+- [Microsoft PowerToys](https://learn.microsoft.com/de-de/windows/powertoys/) – toolsammlung für power-user unter Windows  
+- [NinjaOne](https://www.ninjaone.com) – rmm-plattform für it-dienstleister  
+- [TeamViewer](https://www.teamviewer.com) – fernzugriff und remote-support  
 
 ## Kommunikation & Zusammenarbeit
 
-- [Jitsi Meet](https://meet.jit.si) – Open-Source-Videokonferenzen ohne Anmeldung.
-- [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams) – Plattform für Team-Kommunikation.
-- [Slack](https://slack.com) – Teamkommunikation mit Integrationen.
-- [Zoom](https://zoom.us) – Videokonferenzen und Webinare.
+- [Jitsi Meet](https://meet.jit.si) – open-source-videokonferenzen ohne anmeldung  
+- [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams) – plattform für team-kommunikation  
+- [Slack](https://slack.com) – teamkommunikation mit integrationen  
+- [Zoom](https://zoom.us) – videokonferenzen und webinare  
 
 ## OSINT
 
 ### Allgemein
 
-- [Maltego](https://www.maltego.com/) – Visualisierung und Analyse von Beziehungsnetzwerken.
-- [SpiderFoot](https://www.spiderfoot.net/) – Automatisierte OSINT-Erkennung und Analyse-Plattform.
-- [Recon-ng](https://github.com/lanmaster53/recon-ng) – Modulares Reconnaissance-Framework mit CLI.
-- [theHarvester](https://github.com/laramies/theHarvester) – Sammelt E-Mail-Adressen und Subdomains aus öffentlichen Quellen.
-- [Amass](https://github.com/owasp-amass/amass) – Tool zur Netzwerk-Kartierung und DNS-Aufklärung.
+- [Maltego](https://www.maltego.com/) – visualisierung und analyse von beziehungsnetzwerken  
+- [SpiderFoot](https://www.spiderfoot.net/) – automatisierte osint-erkennung und analyse  
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) – modulares cli-framework für reconnaissance  
+- [theHarvester](https://github.com/laramies/theHarvester) – sammelt e-mail-adressen und subdomains  
+- [Amass](https://github.com/owasp-amass/amass) – netzwerk-kartierung und dns-auflösung  
 
 ### Personensuche
 
-- [Sherlock](https://github.com/sherlock-project/sherlock) – Findet Nutzernamen auf Hunderten Plattformen.
-- [Maigret](https://github.com/soxoj/maigret) – Erstellt Profile anhand von Benutzernamen auf verschiedenen Seiten.
-- [Namechk](https://namechk.com/) – Prüft die Verfügbarkeit von Usernamen und Domains.
+- [Sherlock](https://github.com/sherlock-project/sherlock) – findet nutzernamen auf vielen plattformen  
+- [Maigret](https://github.com/soxoj/maigret) – erstellt profile anhand von usernamen  
+- [Namechk](https://namechk.com/) – prüft verfügbarkeit von usernamen und domains  
 
 ### Social Media Analyse
 
-- [Twint](https://github.com/twintproject/twint) – Twitter-Scraper ohne API-Beschränkungen.
-- [Social-Searcher](https://www.social-searcher.com/) – Live-Suche in sozialen Netzwerken.
-- [Snaffler](https://github.com/SnaffCon/Snaffler) – Findet sensible Dateien auf Windows-Freigaben (nicht direkt Social, aber hilfreich bei OSINT).
+- [Twint](https://github.com/twintproject/twint) – twitter-scraper ohne api  
+- [Social-Searcher](https://www.social-searcher.com/) – live-suche in sozialen netzwerken  
+- [Snaffler](https://github.com/SnaffCon/Snaffler) – findet sensible dateien auf windows-freigaben  
 
 ### Metadaten & Dateien
 
-- [ExifTool](https://exiftool.org/) – Liest und schreibt Metadaten aus/bzw. in Bilder, PDFs, u. v. m.
-- [FOCA](https://www.elevenpaths.com/labstools/foca/index.html) – Analysiert Metadaten in Office-Dokumenten und PDFs.
+- [ExifTool](https://exiftool.org/) – liest und schreibt metadaten in dateien  
+- [FOCA](https://www.elevenpaths.com/labstools/foca/index.html) – analysiert metadaten in dokumenten  
 
 ### Karten & Geolokalisierung
 
-- [GeoFinder](https://github.com/maldevel/GeoFinder) – Findet Standortdaten aus Bild-Metadaten.
-- [GeoGuessr OSINT Tools](https://github.com/commando849/geoguessr-osint) – Sammlung nützlicher Geolocation-Tools.
-- [Sentinel Hub](https://www.sentinel-hub.com/) – Zugriff auf Satellitendaten der ESA zur visuellen Analyse.
+- [GeoFinder](https://github.com/maldevel/GeoFinder) – extrahiert standortdaten aus bildern  
+- [GeoGuessr OSINT Tools](https://github.com/commando849/geoguessr-osint) – sammlung nützlicher geolocation-tools  
+- [Sentinel Hub](https://www.sentinel-hub.com/) – zugriff auf esa-satellitendaten zur analyse  
 
 ## Passwortmanager
 
-- [1Password](https://1password.com) – Passwortmanager für Teams.
-- [KeePass](https://keepass.info) – Open-Source-Passwortmanager.
+- [1Password](https://1password.com) – passwortmanager für teams  
+- [KeePass](https://keepass.info) – open-source-passwortmanager  
 
 ## PDF-Tools
 
-- [Stirling PDF](https://stirlingpdf.io) – Selbstgehostetes PDF-Tool mit über 50 Bearbeitungsfunktionen.
+- [Stirling PDF](https://stirlingpdf.io) – selbstgehostetes pdf-tool mit vielen funktionen  
 
 ## Podcasts
-- [CCC Chaosradio](https://chaosradio.de/about)
-- [Heise Podcast Liste](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html) Liste der Heise Medien Gruppe
+
+- [CCC Chaosradio](https://chaosradio.de/about)  
+- [Heise Podcasts](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)  
 
 ## Projektmanagement & Planung
 
-- [Microsoft Loop](https://loop.microsoft.com) – Kanban- und Notiztool von Microsoft.
+- [Microsoft Loop](https://loop.microsoft.com) – kanban- und notiztool von Microsoft  
 
 ## Rechnungstools / E-Rechnung
 
-- [easybill](https://www.easybill.de) – Online-Rechnungen und E-Rechnung.
-- [sevDesk](https://sevdesk.com) – Buchhaltungssoftware mit E-Rechnungsmodul.
-- [smarthandwerk](https://www.smarthandwerk.de) – Handwerkersoftware, Fakturasoftware, ERP-Tool, mit DATEV-Schnittstelle
+- [easybill](https://www.easybill.de) – online-rechnungen und e-rechnung  
+- [sevDesk](https://sevdesk.com) – buchhaltungssoftware mit e-rechnungsmodul  
+- [smarthandwerk](https://www.smarthandwerk.de) – faktura-/erp-software mit DATEV-schnittstelle  
 
 ## Security Tools
 
 ### Allgemein
 
-- [Kali Linux](https://www.kali.org/) – Die bekannteste Linux-Distribution für Penetration Testing.
-- [Parrot OS](https://www.parrotsec.org/) – Alternative Linux-Distribution mit Fokus auf Sicherheit und Forensik.
-- [PentestBox](https://pentestbox.com/) – Windows-basierte Penetration-Testing-Umgebung.
+- [Kali Linux](https://www.kali.org/) – linux-distribution für pentests  
+- [Parrot OS](https://www.parrotsec.org/) – sicherheits-fokussierte linux-distribution  
+- [PentestBox](https://pentestbox.com/) – pentest-umgebung für windows  
 
 ### Scanning & Enumeration
 
-- [Nmap](https://nmap.org/) – Netzwerkscanner zur Erkennung offener Ports und Dienste.
-- [Masscan](https://github.com/robertdavidgraham/masscan) – Extrem schneller Portscanner.
-- [Enum4linux](https://github.com/CiscoCXSecurity/enum4linux) – Information Gathering für Windows-Systeme (SMB, RPC).
+- [Nmap](https://nmap.org/) – netzwerkscanner für ports und dienste  
+- [Masscan](https://github.com/robertdavidgraham/masscan) – schneller portscanner  
+- [Enum4linux](https://github.com/CiscoCXSecurity/enum4linux) – windows-enumeration via smb/rpc  
 
 ### Exploitation
 
-- [Metasploit Framework](https://www.metasploit.com/) – Umfangreiches Exploitation-Framework für Schwachstellenausnutzung.
-- [Exploit Database](https://www.exploit-db.com/) – Sammlung veröffentlichter Exploits und Proof-of-Concepts.
-- [Commix](https://github.com/commixproject/commix) – Automatisiertes Tool zur Ausnutzung von Command Injection Schwachstellen.
+- [Metasploit Framework](https://www.metasploit.com/) – exploitation-framework  
+- [Exploit Database](https://www.exploit-db.com/) – sammlung veröffentlichter exploits  
+- [Commix](https://github.com/commixproject/commix) – automatisierte command injection  
 
 ### Web Application Testing
 
-- [Burp Suite Community Edition](https://portswigger.net/burp) – Web Application Security Testing Toolkit.
-- [OWASP ZAP](https://www.zaproxy.org/) – Open-Source-Webscanner mit GUI und automatisiertem Scanning.
-- [Nikto](https://github.com/sullo/nikto) – Webserver Scanner für veraltete oder unsichere Dienste.
+- [Burp Suite Community Edition](https://portswigger.net/burp) – toolkit für web-anwendungssicherheit  
+- [OWASP ZAP](https://www.zaproxy.org/) – open-source-webscanner mit gui  
+- [Nikto](https://github.com/sullo/nikto) – webserver-scanner für schwachstellen  
 
 ### Passwort & Hash Cracking
 
-- [Hashcat](https://hashcat.net/hashcat/) – Leistungsstarkes Passwort-Cracking-Tool für GPUs.
-- [John the Ripper](https://www.openwall.com/john/) – Klassiker für Passwortprüfung und -cracking.
-- [Hydra](https://github.com/vanhauser-thc/thc-hydra) – Schnelles Tool für Brute-Force-Angriffe auf Netzwerkprotokolle.
+- [Hashcat](https://hashcat.net/hashcat/) – gpu-basiertes cracking-tool  
+- [John the Ripper](https://www.openwall.com/john/) – klassisches cracking-tool  
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra) – brute-force-tool für netzwerkprotokolle  
 
 ### Wireless & Bluetooth
 
-- [Aircrack-ng](https://www.aircrack-ng.org/) – Tool-Suite zum Knacken von WLAN-Verschlüsselung.
-- [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) – Rogue AP Framework für Man-in-the-Middle-Angriffe.
-- [Bettercap](https://github.com/bettercap/bettercap) – Netzwerkangriffs- und -überwachungsframework, inkl. BLE.
+- [Aircrack-ng](https://www.aircrack-ng.org/) – tool-suite zum knacken von wlan  
+- [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) – rogue-ap-framework für mitm  
+- [Bettercap](https://github.com/bettercap/bettercap) – netzwerk-angriffsframework inkl. ble  
 
 ## Self-Hosting & Open Source
 
-- [Docker](https://www.docker.com) – Plattform zur Containerisierung.
-- [Podman](https://podman.io) – Rootless-Alternative zu Docker.
-- [Portainer](https://www.portainer.io) – GUI zur Verwaltung von Containern.
+- [Docker](https://www.docker.com) – container-plattform  
+- [Podman](https://podman.io) – rootless-alternative zu Docker  
+- [Portainer](https://www.portainer.io) – gui zur containerverwaltung  
 
 ## Speicher & Dateiablage
 
-- [Nextcloud](https://nextcloud.com) – Selbstgehostete Plattform für Filesharing.
+- [Nextcloud](https://nextcloud.com) – selbstgehostete plattform für filesharing  
 
-## Videos / Youtube Channels
+## Videos / YouTube-Kanäle
 
-- [@AndreasHausmann](https://www.youtube.com/c/AndreasHausmann) - DATEV Wissen kompakt in Youtube gegossen
-- [@itelioCloudUncovered](https://www.youtube.com/@itelioCloudUncovered) - Handson, Tutorials rund um MS-Cloud
-- [@ct3003](https://www.youtube.com/@ct3003) - Informativer Heise.de Youtubechannel zu Techniktrends
+- [@AndreasHausmann](https://www.youtube.com/c/AndreasHausmann) – datev-themen kompakt erklärt  
+- [@itelioCloudUncovered](https://www.youtube.com/@itelioCloudUncovered) – tutorials rund um microsoft-cloud  
+- [@ct3003](https://www.youtube.com/@ct3003) – heise-kanal zu techniktrends  
 
 ## Wissensmanagement
 
-- [BookStack](https://www.bookstackapp.com) – Open-Source-Wiki für Teams.
-- [Know&Share](https://www.knowandshare.com) – Hosted Service für Wissensorganisation.
+- [BookStack](https://www.bookstackapp.com) – open-source-wiki für teams  
+- [Know&Share](https://www.knowandshare.com) – hosted knowledgebase-service  
 
 ## Zeiterfassung
 
-- [clockodo](https://www.clockodo.de) – Zeiterfassung für Teams und Projekte.
+- [clockodo](https://www.clockodo.de) – zeiterfassung für teams und projekte  
 
 ---
 
