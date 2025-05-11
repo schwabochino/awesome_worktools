@@ -54,6 +54,39 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 - [Slack](https://slack.com) – Teamkommunikation mit Integrationen.
 - [Zoom](https://zoom.us) – Videokonferenzen und Webinare.
 
+## OSINT
+
+### Allgemein
+
+- [Maltego](https://www.maltego.com/) – Visualisierung und Analyse von Beziehungsnetzwerken.
+- [SpiderFoot](https://www.spiderfoot.net/) – Automatisierte OSINT-Erkennung und Analyse-Plattform.
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) – Modulares Reconnaissance-Framework mit CLI.
+- [theHarvester](https://github.com/laramies/theHarvester) – Sammelt E-Mail-Adressen und Subdomains aus öffentlichen Quellen.
+- [Amass](https://github.com/owasp-amass/amass) – Tool zur Netzwerk-Kartierung und DNS-Aufklärung.
+
+### Personensuche
+
+- [Sherlock](https://github.com/sherlock-project/sherlock) – Findet Nutzernamen auf Hunderten Plattformen.
+- [Maigret](https://github.com/soxoj/maigret) – Erstellt Profile anhand von Benutzernamen auf verschiedenen Seiten.
+- [Namechk](https://namechk.com/) – Prüft die Verfügbarkeit von Usernamen und Domains.
+
+### Social Media Analyse
+
+- [Twint](https://github.com/twintproject/twint) – Twitter-Scraper ohne API-Beschränkungen.
+- [Social-Searcher](https://www.social-searcher.com/) – Live-Suche in sozialen Netzwerken.
+- [Snaffler](https://github.com/SnaffCon/Snaffler) – Findet sensible Dateien auf Windows-Freigaben (nicht direkt Social, aber hilfreich bei OSINT).
+
+### Metadaten & Dateien
+
+- [ExifTool](https://exiftool.org/) – Liest und schreibt Metadaten aus/bzw. in Bilder, PDFs, u. v. m.
+- [FOCA](https://www.elevenpaths.com/labstools/foca/index.html) – Analysiert Metadaten in Office-Dokumenten und PDFs.
+
+### Karten & Geolokalisierung
+
+- [GeoFinder](https://github.com/maldevel/GeoFinder) – Findet Standortdaten aus Bild-Metadaten.
+- [GeoGuessr OSINT Tools](https://github.com/commando849/geoguessr-osint) – Sammlung nützlicher Geolocation-Tools.
+- [Sentinel Hub](https://www.sentinel-hub.com/) – Zugriff auf Satellitendaten der ESA zur visuellen Analyse.
+
 ## Passwortmanager
 
 - [1Password](https://1password.com) – Passwortmanager für Teams.
