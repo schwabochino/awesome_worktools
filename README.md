@@ -42,8 +42,11 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 
 - [ElevenLabs](https://elevenlabs.io/de) – Text-zu-Sprache-Tool für realistische Stimmen.
 - [Huggingface](https://huggingface.co) – Plattform für Open-Source-KI-Modelle und -APIs.
+- [Llama](https://www.llama.com) - Meta LLMs
+- [LLM Studio](https://lmstudio.ai) - App zum lokal ausführen von LLMs
 - [Langdock](https://www.langdock.com) – DSGVO-konforme Plattform für LLMs (OpenAI, Gemini etc.).
 - [milia](https://www.milia.io) – KI-Tool für Kanzleien mit DATEV-Anbindung.
+- [Whisper](https://openai.com/index/whisper/) -  Bestes Sprache zu Text Tool
 
 ## Automatisierung & Workflows
 
