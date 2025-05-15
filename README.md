@@ -55,7 +55,7 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 
 ## Beschaffung & Einkauf
 
-*(Derzeit leer – Vorschläge willkommen.)*
+- [Synaxon] (https://synaxon.com/de/leistungen/egis/) Einkaufsplattform ab (129€ / Monat)
 
 ## IT-Administration & Support
 
