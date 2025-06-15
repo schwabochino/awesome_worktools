@@ -47,6 +47,7 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 - [Llama](https://www.llama.com) – LLMs von Meta  
 - [LLM Studio](https://lmstudio.ai) – App zum lokalen Ausführen von LLMs  
 - [Langdock](https://www.langdock.com) – DSGVO-konforme Plattform für LLMs (OpenAI, Gemini etc.)  
+- [mcp-Server-Liste](https://mcpservers.org) – mcp Liste zur lokalen Automation
 - [milia](https://www.milia.io) – KI-Tool für Kanzleien mit DATEV-Anbindung  
 - [Whisper](https://openai.com/index/whisper/) – Sprache-zu-Text-Tool mit hoher Genauigkeit  
 
