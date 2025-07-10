@@ -42,7 +42,7 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 ## AI-Tools
 
 
-- [Audipy](https://www.semitax.de/audipy) - Realtime Audit. With A
+- [Audipy](https://www.semitax.de/audipy) - Realtime Audit. With AI
 - [Cursor](https://www.cursor.com/) – AI IDE - AI schreibt funktionierende Codes, Programme, Webseiten mit CLaude, openAI usw
 - [ElevenLabs](https://elevenlabs.io/de) – Text-zu-Sprache-Tool für realistische Stimmen  
 - [Huggingface](https://huggingface.co) – Plattform für Open-Source-KI-Modelle und -APIs  
