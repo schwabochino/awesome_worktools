@@ -136,7 +136,8 @@ Eine kuratierte Liste nützlicher Tools für den modernen Arbeitsalltag – spez
 
 ### Allgemein
 
-- [Kali Linux](https://www.kali.org/) – Linux-Distribution für Pentests  
+- [Kali Linux](https://www.kali.org/) – Linux-Distribution für Pentests
+- [OWASP](https://owasp.org/) Securitytools/Dokus usw. 
 - [Parrot OS](https://www.parrotsec.org/) – Sicherheits-fokussierte Linux-Distribution  
 - [PentestBox](https://pentestbox.com/) – Pentest-Umgebung für Windows  
 
